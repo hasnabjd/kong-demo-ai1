@@ -1,0 +1,5 @@
+plugins:
+- name: key-auth
+  config:
+    key_names:
+    - apikey
